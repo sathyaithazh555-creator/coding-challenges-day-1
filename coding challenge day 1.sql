@@ -15,7 +15,7 @@ modify patient_name varchar(150);
 alter table patients
 rename  patient_info ; 
 truncate table patient_info;
-drop table patient_info
+drop table patient_info;
 
 
 --- day 1 challange completed---
